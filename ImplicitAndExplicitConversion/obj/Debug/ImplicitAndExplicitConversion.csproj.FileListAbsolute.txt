@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\bin\Debug\ImplicitAndExplicitConversion.exe.config
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\bin\Debug\ImplicitAndExplicitConversion.exe
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\bin\Debug\ImplicitAndExplicitConversion.pdb
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\obj\Debug\ImplicitAndExplicitConversion.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\obj\Debug\ImplicitAndExplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\obj\Debug\ImplicitAndExplicitConversion.exe
+C:\Users\Burgic\source\repos\CSharpStudy\ImplicitAndExplicitConversion\obj\Debug\ImplicitAndExplicitConversion.pdb
