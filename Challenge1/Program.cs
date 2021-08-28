@@ -25,6 +25,7 @@ namespace Challenge1
             Console.WriteLine(name.ToLower());
             Console.WriteLine(name.Trim());
             Console.WriteLine(name.Substring(2));
+            Console.WriteLine(name.Substring(0, 3));
             Console.Read();
 
         }
