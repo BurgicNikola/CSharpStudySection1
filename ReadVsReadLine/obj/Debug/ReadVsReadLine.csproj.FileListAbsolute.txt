@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\bin\Debug\ReadVsReadLine.exe.config
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\bin\Debug\ReadVsReadLine.exe
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\bin\Debug\ReadVsReadLine.pdb
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\obj\Debug\ReadVsReadLine.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\obj\Debug\ReadVsReadLine.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\obj\Debug\ReadVsReadLine.exe
+C:\Users\Burgic\source\repos\HelloWorldCsharp\ReadVsReadLine\obj\Debug\ReadVsReadLine.pdb

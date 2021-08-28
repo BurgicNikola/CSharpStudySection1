@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\bin\Debug\DatatypeString.exe.config
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\bin\Debug\DatatypeString.exe
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\bin\Debug\DatatypeString.pdb
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\obj\Debug\DatatypeString.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\obj\Debug\DatatypeString.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\obj\Debug\DatatypeString.exe
+C:\Users\Burgic\source\repos\HelloWorldCsharp\DatatypeString\obj\Debug\DatatypeString.pdb
