@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\bin\Debug\Challenge1.exe.config
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\bin\Debug\Challenge1.exe
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\bin\Debug\Challenge1.pdb
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\obj\Debug\Challenge1.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\obj\Debug\Challenge1.exe
+C:\Users\Burgic\source\repos\CSharpStudy\Challenge1\obj\Debug\Challenge1.pdb
