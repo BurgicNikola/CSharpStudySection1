@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\obj\Debug\StringManipulation.pdb
+C:\Users\Burgic\source\repos\CSharpStudy\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NamingConventionsAndCodingStandards
+﻿namespace NamingConventionsAndCodingStandards
 {
     // Class names are always written in PascalCase. Example: ClientActivity.
     // Use nouns to name classes because they represent objects.
