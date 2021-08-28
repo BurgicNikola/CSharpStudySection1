@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\bin\Debug\ParsingStringToInt.exe.config
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\bin\Debug\ParsingStringToInt.exe
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\bin\Debug\ParsingStringToInt.pdb
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\obj\Debug\ParsingStringToInt.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\obj\Debug\ParsingStringToInt.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\obj\Debug\ParsingStringToInt.exe
+C:\Users\Burgic\source\repos\CSharpStudy\ParsingStringToInt\obj\Debug\ParsingStringToInt.pdb
